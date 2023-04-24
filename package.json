@@ -1,0 +1,14 @@
+{
+  "name": "2_textedit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "realkim",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.3.1"
+  }
+}
